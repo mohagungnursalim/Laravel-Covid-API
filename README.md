@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About APP
+Covid-19 GET API Indonesia,dibuat dengan Laravel Framework,silahkan di clone dan di kembangkan sesuka hati.
+
+- Menampilkan total data positif Covid-19 di Indonesia
+- Menampilkan total data kematian Covid-19 di Indonesia
+- Menampilkan total data sembuh Covid-19 di Indonesia
+
+APP ini tetap akan dikembangkan,jangan lupa diberi star nya guys 
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
