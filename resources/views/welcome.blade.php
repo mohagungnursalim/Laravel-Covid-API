@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,7 +22,6 @@
 
     </style>
 </head>
-
 <body>
     <div class="container">
 
@@ -67,7 +65,6 @@
                                 </td>
                             </tr>
 
-
                         </table>
                     </div>
                     <div class="card-footer text-center">
@@ -77,7 +74,7 @@
                     <div class="text-center" >
                         <small>
                             © 2022 Copyright:
-                            <a class="text-dark" href="https://github.com/mohagungnursalim">github.com/mohagungnursalim</a>
+                            <div class="div"><img src="{{ asset('img/github.png') }}" width="25px" alt="Github"> <a class="text-dark" href="https://github.com/mohagungnursalim">github.com/mohagungnursalim</a></div>                     
                         </small>
                        
                     </div>
